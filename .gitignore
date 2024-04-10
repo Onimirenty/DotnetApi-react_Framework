@@ -1,0 +1,11 @@
+node_modules/
+azertyFront2/
+azerty2/
+mock-app/
+Azerty2.sln
+kiki/
+!src/
+!lib/
+!data_genesis
+ionic_vuejs_skeleton/
+react_skeleton/
